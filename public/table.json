@@ -1,0 +1,52 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "Jane",
+            "account": 13559309253,
+            "role": "Administrator",
+            "password": "********",
+            "state": "Normal",
+            "createdate": "2019-11-1",
+            "lastdate": "2020-10-16",
+            "update": "2020-10-16"
+
+        },
+        {
+            "id": 2,
+            "name": "Bluce",
+            "account": 13681247500,
+            "role": "User",
+            "password": "********",
+            "state": "Normal",
+            "createdate": "2019-10-11",
+            "lastdate": "2020-5-16",
+            "update": "2020-1-6"
+
+        },
+        {
+            "id": 3,
+            "name": "Mike",
+            "account": 13594532121,
+            "role": "User",
+            "password": "********",
+            "state": "Abnormal",
+            "createdate": "2019-11-11",
+            "lastdate": "2021-2-3",
+            "update": "2021-1-9"
+
+        },
+        {
+            "id": 4,
+            "name": "Steven",
+            "account": 13706217416,
+            "role": "Administrator",
+            "password": "********",
+            "state": "Normal",
+            "createdate": "2019-10-20",
+            "lastdate": "2020-8-9",
+            "update": "2020-8-8"
+
+        }
+    ],
+    "pageTotal": 4
+}
